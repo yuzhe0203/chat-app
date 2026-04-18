@@ -1,0 +1,28 @@
+# compiled output
+/dist
+/node_modules
+
+# environment variables
+.env
+.env.local
+.env.*.local
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/*
+.idea
+
+# testing
+/coverage
+
+# Prisma
+prisma/migrations/**/migration_lock.toml
+/generated/prisma
