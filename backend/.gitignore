@@ -22,6 +22,7 @@ Thumbs.db
 
 # testing
 /coverage
+/api_test
 
 # Prisma
 prisma/migrations/**/migration_lock.toml
